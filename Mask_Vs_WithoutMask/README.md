@@ -161,9 +161,15 @@ This project is **open-source** under the MIT License.
 
 ---
 
+### 🔗 Google Colab Notebook
+You can run this project directly in Colab using the link below:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1Rk3d4QywT_1g9SXAxi8ZZedurCzi4MGG?usp=sharing)
+
 ## Contact
 
 * **Developer**: Umer Rafiq
 * **Email**: [rafiqyatooumer@gmail.com](mailto:raf@gmail.com)
+  
 
 
