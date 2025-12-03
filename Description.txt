@@ -1,0 +1,1 @@
+This repository contains my CNN projects. I’ve completed several models locally, and I will be uploading them here gradually along with new experiments.
