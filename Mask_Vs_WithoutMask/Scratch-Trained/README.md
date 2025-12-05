@@ -215,6 +215,13 @@ print("Prediction:", "With Mask" if pred > 0.5 else "Without Mask")
 This project is licensed under the **MIT License**.
 
 ---
+## 🔗 Google Colab Notebook
+
+Run the complete project in Google Colab:
+
+👉 *(https://colab.research.google.com/drive/1EVJWpIr18xGZL-iDjLFgd1kQQ2Ra8PS2?usp=sharing)*
+
+---
 
 ## ✉️ Contact
 
